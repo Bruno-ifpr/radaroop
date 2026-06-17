@@ -39,7 +39,7 @@ class Voo {
 const dadosDaApi = [
     { id_voo: "G3-111", cidade: "Curitiba", vento_kmh: 90 },
     { id_voo: "LA-222", cidade: "São Paulo", vento_kmh: 40 },
-    { id_voo: "AZ-333", cidade: "Rio de Janeiro", vento_kmh: 75 }
+    { id_voo: "AZ-333", cidade: "RIo de Janeiro", vento_kmh: 75 }
 ];
 
 // Array de objetos ricos
